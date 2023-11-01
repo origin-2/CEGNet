@@ -12,7 +12,7 @@ We recommend you use the proposed ADD metric to train your own model!!!
 
 ### Installation
 ```
-git clone git@github.com:GANWANSHUI/ES6D.git
+git clone git@github.com:origin1998/CEGNet.git
 cd CEGNet
 conda env create -f CEGNet.yaml
 ```
